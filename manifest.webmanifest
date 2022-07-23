@@ -1,0 +1,14 @@
+{
+  "name": "Direct Ink",
+  "short_name": "Direct Ink",
+  "id": "com.example.spherez",
+  "description": "Shoot the blocks before they touch the ground.  Earn extra balls and destroy the blocks by aiming carefully.
+
+This is a game template made with GDevelop, a no-code open-source game engine.",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
